@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import BlogPage from "./components/pages/BlogPage";
 import AllPostsPage from "./components/pages/AllPostsPage";
 
+import "react-loading-skeleton/dist/skeleton.css";
 function App() {
   return (
     <Router>
